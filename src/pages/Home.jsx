@@ -9,7 +9,8 @@ const Home = () => {
               <h1 className='py-2'>หน้าแรก</h1>
               <hr />
             </div>
-            <img src={Bbg} alt="" />
+            <img src={Bbg} className='' />
+            <br />
     </Layout>
 
   )
