@@ -6,7 +6,6 @@ const Navbar = () => {
   return (
     <nav>
         <div className='bg-blue-500 p-4'>
-            <img src={Logo} alt="" className='w-[60px]'/>
             <div className='flex justify-between text-white'>
                 <p className='text-xl'>NVC Training Center</p>
                 <div className=' space-x-5'>

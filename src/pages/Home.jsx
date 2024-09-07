@@ -5,8 +5,9 @@ import Bbg from "/images/01.jpg";
 const Home = () => {
   return (
     <Layout>
-            <div className='text-3xl py-4 font-bold text-center'>
-              <h1>หน้าแรก</h1>
+            <div className='text-2xl py-2 text-center'>
+              <h1 className='py-2'>หน้าแรก</h1>
+              <hr />
             </div>
             <img src={Bbg} alt="" />
     </Layout>

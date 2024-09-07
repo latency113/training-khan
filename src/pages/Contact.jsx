@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <Layout>
       <div className='flex py-5 flex-col items-center'>
-        <h1 className='text-2xl font-bold'>Contact</h1>
+        <h1 className='text-2xl'>Contact</h1>
           <div className='py-5 flex'>
             <div className='bg-blue-500 rounded-lg text-white p-5'>
                 <p>ติดต่อได้ที่ เพจ NVC Training Center</p>
